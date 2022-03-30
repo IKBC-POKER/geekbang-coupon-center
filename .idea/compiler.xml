@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="coupon-customer-dao" />
+        <module name="coupon-template-dao" />
+        <module name="coupon-customer-impl" />
+        <module name="coupon-calculations-impl" />
+        <module name="coupon-template-impl" />
+        <module name="coupon-customer-api" />
+        <module name="coupon-calculations-api" />
+        <module name="coupon-template-api" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="coupon-calculation-serv" options="-parameters" />
+      <module name="coupon-calculations-api" options="-parameters" />
+      <module name="coupon-calculations-impl" options="-parameters" />
+      <module name="coupon-customer-api" options="-parameters" />
+      <module name="coupon-customer-dao" options="-parameters" />
+      <module name="coupon-customer-impl" options="-parameters" />
+      <module name="coupon-customer-serv" options="-parameters" />
+      <module name="coupon-template-api" options="-parameters" />
+      <module name="coupon-template-dao" options="-parameters" />
+      <module name="coupon-template-impl" options="-parameters" />
+      <module name="coupon-template-serv" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="middleware" options="-parameters" />
+    </option>
+  </component>
+</project>

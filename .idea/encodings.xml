@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/coupon-calculation-serv/coupon-calculations-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-calculation-serv/coupon-calculations-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/coupon-customer-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/coupon-customer-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/coupon-customer-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-template-serv/coupon-template-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-template-serv/coupon-template-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-template-serv/coupon-template-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/middleware/gateway/src/main/java" charset="UTF-8" />
+  </component>
+</project>
